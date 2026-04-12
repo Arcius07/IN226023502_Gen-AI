@@ -117,6 +117,6 @@ This project highlights how LangChain can be used in practical scenarios:
 - Simple one-step LLM tasks  
 - Low-latency applications  
 - Lightweight projects  
-
+---
 ### 👨‍💻 Author
 Sarthak Thakur
